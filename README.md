@@ -1,4 +1,4 @@
-# mevn-user-reg-module
+
 
 > A simple app to payment on stripe. Front-end:-  Vue.js site with Product, Order and Confirmation pages. Built with vue-router, axios and Stripe.js. And Back-end:- Node.js server to handle payment processing and order confirmation details.
 
